@@ -1,8 +1,8 @@
-###  Arafa Bechka :wave:
+### :wave: Arafa Bechka :wave:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=56B8F7&center=true&vCenter=true&width=450&height=60&lines=Always+learning+new+things+like%3A+;Machine+Learning+;and+Deep+Learning+projects)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=D98AF7&center=true&vCenter=true&width=450&height=60&lines=int%C3%A9ress%C3%A9+par+les+projets+;de+Machine+Learning+;Deep+Learning+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1944C8&width=435&lines=Always+learning+new+things+like%3A+;Artificial+Intelligence+--%3E;Deep+Learning+--%3E+CNN%2C+RNN;GAN+and+others...;Machine+Learning+projects++--%3E;supervised+and+unsupervised+learning)](https://git.io/typing-svg)
 
 ## 🌐 Social Networks:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/arafa-bechka-b1545717a) 
