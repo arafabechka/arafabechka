@@ -4,3 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78969&center=true&vCenter=true&width=450&height=60&lines=int%C3%A9ress%C3%A9+par+les+projets+;de+Machine+Learning+;ainsi+que+de+Deep+Learning)](https://git.io/typing-svg)
 
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
