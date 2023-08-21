@@ -1,7 +1,7 @@
 ### :wave: Arafa Bechka :wave:
-
+#Fr:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29DA13&width=435&lines=Je+suis+int%C3%A9ress%C3%A9+par+%3A;les+projets+relatifs+%C3%A0+l'IA;Deep+Learning+--%3E+CNN%2C+RNN%2C+GAN;en+autres+et+de+machine+learning)](https://git.io/typing-svg)
-
+#Eng:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1944C8&width=435&lines=Always+learning+new+things+like%3A+;Artificial+Intelligence+--%3E;Deep+Learning+--%3E+CNN%2C+RNN;GAN+and+others...;Machine+Learning+projects++--%3E;supervised+and+unsupervised+learning)](https://git.io/typing-svg)
 
 ## 🌐 Social Networks:
