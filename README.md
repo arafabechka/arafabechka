@@ -1,4 +1,4 @@
-### Arafa Bechka
+###                                               Arafa Bechka
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=569DF7&center=true&vCenter=true&width=450&height=60&lines=always+learnings+new+things+like%3A+;Machine+Learning;and+Deep+Learning+)](https://git.io/typing-svg)
 
